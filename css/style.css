@@ -84,3 +84,13 @@ a:hover {
     width: 95%;
   }
 }
+footer{
+  align-content: center;
+}
+h4 {
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: solid;
+  text-decoration-color: aqua;
+
+}
